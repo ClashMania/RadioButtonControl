@@ -1,0 +1,11 @@
+C:\Users\heist\source\repos\RadioButton\obj\Debug\RadioButton.csproj.AssemblyReference.cache
+C:\Users\heist\source\repos\RadioButton\obj\Debug\RadioButton.csproj.SuggestedBindingRedirects.cache
+C:\Users\heist\source\repos\RadioButton\obj\Debug\Radio_button_kontrola.Form1.resources
+C:\Users\heist\source\repos\RadioButton\obj\Debug\RadioButton.Properties.Resources.resources
+C:\Users\heist\source\repos\RadioButton\obj\Debug\RadioButton.csproj.GenerateResource.cache
+C:\Users\heist\source\repos\RadioButton\obj\Debug\RadioButton.csproj.CoreCompileInputs.cache
+C:\Users\heist\source\repos\RadioButton\bin\Debug\RadioButton.exe.config
+C:\Users\heist\source\repos\RadioButton\bin\Debug\RadioButton.exe
+C:\Users\heist\source\repos\RadioButton\bin\Debug\RadioButton.pdb
+C:\Users\heist\source\repos\RadioButton\obj\Debug\RadioButton.exe
+C:\Users\heist\source\repos\RadioButton\obj\Debug\RadioButton.pdb
